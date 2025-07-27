@@ -22,6 +22,13 @@
   Interactive visualizations using Chart.js to display spending breakdowns by category and time.
 
 ---
+## Preview
+<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/e5b0caf7-2351-4b5e-9b72-914248519b3a" />
+<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/4a1cb8d0-a4ca-4ce8-afe3-b974801557da" />
+<img width="1475" height="787" alt="image" src="https://github.com/user-attachments/assets/128e07f4-d0dc-45e0-a5c7-7704cbe6c582" />
+<img width="1572" height="769" alt="image" src="https://github.com/user-attachments/assets/9a5f9510-7f0d-4dc2-b91a-56148cd24914" />
+
+
 
 ## 🛠 Tech Stack
 
